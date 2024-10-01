@@ -18,6 +18,7 @@
     "Неподдержка",
     "плейбук",
     "плейбука",
+    "плейбуках",
     "плейбуке",
     "Полусинхронная",
     "полуструктурированные",
@@ -34,11 +35,23 @@
     "Arango",
     "Couchbase",
     "createhome",
+    "csvfile",
+    "doas",
+    "dzdo",
+    "geerlingguy",
+    "inifile",
+    "lineinfile",
+    "mydatabase",
+    "mylocalhost",
+    "mytable",
+    "pfexec",
     "psrp",
     "RDBMS",
     "Riak",
+    "runas",
     "SYSDATE",
     "TSDB",
-    "VARCHAR"
+    "VARCHAR",
+    "yamlfile"
   ]
 }
